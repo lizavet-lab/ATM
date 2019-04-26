@@ -1,0 +1,3 @@
+index:
+    path: /sendMoney
+    controller: App\Controller\AppController::sendMoney
